@@ -31,7 +31,7 @@ button{
     color: rgba(245, 243, 244, 0.911);
     padding: 10px 16px;
     background-color: rgb(197, 90, 90);
-    margin-bottom: 130px;
+    margin-bottom: 60px;
      border-radius: 8px;
     box-shadow: none;
      border: 1 silver;
@@ -60,12 +60,36 @@ button{
         height: 70px;
         background-color: antiquewhite;
         ;
+        margin-top: 20px;
+        margin-bottom: 20px;
         
      }
+     
 .mid-part{
     text-align: center;
 }
+#other-amount{
+    color: rgba(46, 15, 15, 0.411);
+    margin-top: 0;
+    margin-bottom: 10px;
+}
 hr{
-    margin-right: 500px;
-    margin-left: 500px;
+    color: rgba(41, 24, 24, 0.315);
+    margin-top: 0;
+    margin-bottom: 5px;}
+    
+.title{
+    color: rgb(17, 11, 11);
+    font-size: large;
+    font-weight: bolder;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+
+}
+.title-description{
+    color: rgba(15, 1, 1, 0.562);
+    margin-bottom: 10px;
+    text-align: center;
+    font-weight: 300;
 }
