@@ -184,3 +184,13 @@ footer{
     padding: 30px 0;
     font-weight: 900;
 }
+@media screen and (max-width: 576px) {
+    .task-details{
+        flex-direction: column;
+    }
+    .abc{
+        flex-direction: column;}
+        .abc img{
+            margin: 0 auto;
+        }
+}
